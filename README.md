@@ -1,8 +1,8 @@
 # G-ray
 
-## Ray-Level Relative Geometric Position Encoding in Multi-View Visual Transformers under Camera Heterogeneity
+## Ray-Level Relative Geometric Position Encoding in Multi-View Vision Transformers under Camera Heterogeneity
 
-Official repository for **G-ray**, a ray-level relative position encoding for multi-view visual Transformers under camera heterogeneity.
+Official repository for **G-ray**, a ray-level relative position encoding for multi-view vision Transformers under camera heterogeneity.
 
 [Project Page](https://g-ray-project.github.io/)
 
