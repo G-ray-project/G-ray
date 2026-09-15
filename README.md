@@ -8,6 +8,9 @@
 Shuo Zhang, Xin Su, Wei Wang, Jun Liu, Xinrui Zeng, Yongsen Chen, Chenjie Wang, Guibo Zhu, Jinqiao Wang, Bin Luo<sup>&dagger;</sup>, Liangpei Zhang
 
 <sup>&dagger;</sup> Corresponding author
+
+<a href="https://arxiv.org/abs/2609.15018"><img src="https://img.shields.io/badge/arXiv-2609.15018-b31b1b" alt="arXiv"></a>
+
 </div>
 
 ```bibtex
