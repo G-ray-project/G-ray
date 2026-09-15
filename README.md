@@ -1,6 +1,7 @@
 <div align="center">
 <h1>G-ray: Ray-Level Relative Geometric Position Encoding in Multi-View Visual Transformers under Camera Heterogeneity</h1>
 
+<a href="https://arxiv.org/abs/2609.15018"><img src="https://img.shields.io/badge/arXiv-2609.15018-b31b1b" alt="arXiv"></a>
 <a href="https://g-ray-project.github.io/"><img src="https://img.shields.io/badge/Project_Page-green" alt="Project Page"></a>
 
 **[Wuhan University](https://www.whu.edu.cn/)**; **[Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/)** and **[Wuhan AI Research](https://www.wair.ac.cn/)**; **Rongyun Robot (Guizhou) Co., Ltd.**
@@ -8,8 +9,6 @@
 Shuo Zhang, Xin Su, Wei Wang, Jun Liu, Xinrui Zeng, Yongsen Chen, Chenjie Wang, Guibo Zhu, Jinqiao Wang, Bin Luo<sup>&dagger;</sup>, Liangpei Zhang
 
 <sup>&dagger;</sup> Corresponding author
-
-<a href="https://arxiv.org/abs/2609.15018"><img src="https://img.shields.io/badge/arXiv-2609.15018-b31b1b" alt="arXiv"></a>
 
 </div>
 
